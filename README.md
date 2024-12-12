@@ -1,4 +1,4 @@
-# patternRecognitionCNN
+# Pattern Recognition CNN
 
 ## Team Emeralds
   - Dabarera W P J B - 210090K
